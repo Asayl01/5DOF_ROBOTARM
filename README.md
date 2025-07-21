@@ -33,6 +33,6 @@ Why use it?
 - No installation needed (works online)  
 - Supports team collaboration
 
-###  Best Tutorial Channel
-I recommend **[Joko Engineering](https://www.youtube.com/@JokoEngineeringhelp)** on YouTube – it has clear step-by-step tutorials, including how to design robotic arms using Onshape.
+###  Recommended Tutorial Channels
+- **[Onshape Official Playlists](https://www.youtube.com/@OnshapeInc/playlists)** – official tutorials from Onshape, great for learning tools, features, and workflows step by step.
 
