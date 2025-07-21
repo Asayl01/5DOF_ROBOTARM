@@ -6,7 +6,7 @@
 **Degree of Freedom (DOF)** refers to the number of independent movements a robotic arm can perform.  
 The image below shows different types of motion involved in a 5-DOF robotic arm:
 
-![Degrees of Freedom](images/robot-interior.webp)
+![Degrees of Freedom](robot-interior.)
 
 These include:
 
@@ -24,4 +24,4 @@ These motions are made possible using two main joint types:
 - **Revolute Joint** – enables rotation around an axis  
 - **Prismatic Joint** – enables linear sliding along an axis
 
-![Joint Types](images/joints-diagram.png)
+![Joint Types](joints.png)
