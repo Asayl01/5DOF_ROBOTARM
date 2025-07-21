@@ -19,5 +19,20 @@ These include:
 These motions are made possible using two main joint types:
 - **Revolute Joint** – enables rotation around an axis  
 - **Prismatic Joint** – enables linear sliding along an axis
-  
+
 ![Joint Types](Joints.png)
+
+## About Onshape
+
+[Onshape](https://www.onshape.com/) is a 3D design (CAD) software that works directly in your browser.  
+There’s also a downloadable version for desktop and mobile.
+
+Why use it?
+- Easy to learn for beginners  
+- Free for students and hobby projects  
+- No installation needed (works online)  
+- Supports team collaboration
+
+###  Best Tutorial Channel
+I recommend **[Joko Engineering](https://www.youtube.com/@JokoEngineeringhelp)** on YouTube – it has clear step-by-step tutorials, including how to design robotic arms using Onshape.
+
