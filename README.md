@@ -41,11 +41,10 @@ Why use it?
 The robotic arm is made up of 6 main parts. The image below shows them separated for clarity:
 ![Parts](PartOfArm.png)
 
-| Part # | Name               | Description                                      | Movement Type         |
-|--------|--------------------|--------------------------------------------------|------------------------|
-| 1️⃣     | Base (black)        | Fixed or rotating base that holds the arm       | Fixed / Revolve        |
-| 2️⃣     | Lower Body (yellow) | Allows vertical movement of the arm             | Revolute Joint         |
-| 3️⃣     | First Arm (blue)   | Connects lower body to upper arm                | Revolute Joint         |
-| 4️⃣     | Second Arm (blue)  | Extends reach; connects to the wrist            | Revolute Joint         |
-| 5️⃣     | Wrist Mount (gray) | Connects to gripper; may rotate or tilt         | Revolute / Fixed       |
-| 6️⃣     | Gripper (red)      | End-effector to grip objects                    | Optional (Gripper)     |
+| Part # | Name                     | Description                                                  | Movement Type           |
+|--------|--------------------------|--------------------------------------------------------------|--------------------------|
+| 1️⃣     | Base (black + yellow)     | Rotates the whole arm around its axis (yellow is part of it) | Revolve                  |
+| 2️⃣     | First Arm (blue)         | Moves up and down from the base                              | Revolute Joint           |
+| 3️⃣     | Second Arm (blue)        | Adds additional bending motion                               | Revolute Joint           |
+| 4️⃣     | Wrist Mount (gray)       | Connects to the gripper, may rotate                          | Optional Revolute Joint  |
+| 5️⃣     | Gripper (red)            | End-effector to hold or grip objects                         | Fixed or Functional Grip |
