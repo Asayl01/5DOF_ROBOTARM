@@ -37,4 +37,15 @@ Why use it?
 **[Onshape Official Playlists](https://www.youtube.com/@OnshapeInc/playlists)** – official tutorials from Onshape, great for learning tools, features, and workflows step by step.
 
 ##  Arm Components
+
+The robotic arm is made up of 6 main parts. The image below shows them separated for clarity:
 ![Parts](PartOfArm.png)
+
+| Part # | Name               | Description                                      | Movement Type         |
+|--------|--------------------|--------------------------------------------------|------------------------|
+| 1️⃣     | Base (black)        | Fixed or rotating base that holds the arm       | Fixed / Revolve        |
+| 2️⃣     | Lower Body (yellow) | Allows vertical movement of the arm             | Revolute Joint         |
+| 3️⃣     | First Arm (blue)   | Connects lower body to upper arm                | Revolute Joint         |
+| 4️⃣     | Second Arm (blue)  | Extends reach; connects to the wrist            | Revolute Joint         |
+| 5️⃣     | Wrist Mount (gray) | Connects to gripper; may rotate or tilt         | Revolute / Fixed       |
+| 6️⃣     | Gripper (red)      | End-effector to grip objects                    | Optional (Gripper)     |
