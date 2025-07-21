@@ -53,4 +53,4 @@ The robotic arm is made up of 6 main parts. The image below shows them separated
 The GIF below quickly shows the main steps of the design:  
 starting with **Sketch 1**, then using **Revolve** and **Extrude** to build the 3D parts.
 
-![Design Workflow](images/workflow.gif)
+![Design Workflow](workflow.gif)
