@@ -48,3 +48,9 @@ The robotic arm is made up of 6 main parts. The image below shows them separated
 | 3️⃣     | Second Arm (blue)        | Adds additional bending motion                               | Revolute Joint           |
 | 4️⃣     | Wrist Mount (gray)       | Connects to the gripper, may rotate                          | Optional Revolute Joint  |
 | 5️⃣     | Gripper (red)            | End-effector to hold or grip objects                         | Fixed or Functional Grip |
+
+##  Design Process Overview
+The GIF below quickly shows the main steps of the design:  
+starting with **Sketch 1**, then using **Revolve** and **Extrude** to build the 3D parts.
+
+![Design Workflow](images/workflow.gif)
